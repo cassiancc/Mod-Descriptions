@@ -1,0 +1,77 @@
+{
+"lore.pyrite.framed_glass": "This block can be used as a window. It's slightly tougher than Glass.",
+    "lore.pyrite.framed_glass_pane": "This block can be used as a window. It's slightly tougher than Glass  .",
+    "lore.pyrite.grass_turf": "This block resembles a Grass Block, with the Grass texture on each side.",
+    "lore.pyrite.path_turf": "This block resembles a Dirt Path Block, with the top texture on each side.",
+    "lore.pyrite.mycelium_turf": "This block resembles Mycelium, with the top texture on each side.",
+    "lore.pyrite.podzol_turf": "This block resembles Podzol, with the top texture on each side.",
+    "lore.pyrite.cut_iron": "A variant of Iron that has been Cut.",
+    "lore.pyrite.cut_gold": "A variant of Gold that has been Cut.",
+    "lore.pyrite.cut_diamond": "A variant of Diamond that has been Cut.",
+    "lore.pyrite.cut_redstone": "A variant of Redstone that has been Cut.",
+    "lore.pyrite.cut_quartz": "A variant of Quaartz that has been Cut.",
+    "lore.pyrite.cut_lapis": "A variant of Lapis that has been Cut.",
+    "lore.pyrite.cut_netherite": "A variant of Netherite that has been Cut.",
+    "lore.pyrite.cut_emerald": "A variant of Emerald that has been Cut.",
+    "lore.pyrite.cut_amethyst": "A variant of Amethyst that has been Cut.",
+    "lore.pyrite.chiseled_iron_block": "A variant of Iron that has been Chiseled.",
+    "lore.pyrite.chiseled_gold_block": "A variant of Gold that has been Chiseled.",
+    "lore.pyrite.chiseled_diamond_block": "A variant of Diamond that has been Chiseled.",
+    "lore.pyrite.chiseled_redstone_block": "A variant of Redstone that has been Chiseled.",
+    "lore.pyrite.chiseled_quartz_block": "A variant of Quaartz that has been Chiseled.",
+    "lore.pyrite.chiseled_lapis_block": "A variant of Lapis that has been Chiseled.",
+    "lore.pyrite.chiseled_netherite_block": "A variant of Netherite that has been Chiseled.",
+    "lore.pyrite.chiseled_emerald_block": "A variant of Emerald that has been Chiseled.",
+    "lore.pyrite.chiseled_amethyst_block": "A variant of Amethyst that has been Chiseled.",
+    "lore.pyrite.iron_bricks": "A variant of Iron that has been carved into Bricks.",
+    "lore.pyrite.gold_bricks": "A variant of Gold that has been carved into Bricks.",
+    "lore.pyrite.diamond_bricks": "A variant of Diamond that has been carved into Bricks.",
+    "lore.pyrite.redstone_bricks": "A variant of Redstone that has been carved into Bricks.",
+    "lore.pyrite.quartz_bricks": "A variant of Quaartz that has been carved into Bricks.",
+    "lore.pyrite.lapis_bricks": "A variant of Lapis that has been carved into Bricks.",
+    "lore.pyrite.netherite_bricks": "A variant of Netherite that has been carved into Bricks.",
+    "lore.pyrite.emerald_bricks": "A variant of Emerald that has been carved into Bricks.",
+    "lore.pyrite.amethyst_bricks": "A variant of Amethyst that has been carved into Bricks.",
+    "lore.pyrite.iron_pillar": "A variant of Iron that has been carved into a Pillar.",
+    "lore.pyrite.gold_pillar": "A variant of Gold that has been carved into a Pillar.",
+    "lore.pyrite.diamond_pillar": "A variant of Diamond that has been carved into a Pillar.",
+    "lore.pyrite.redstone_pillar": "A variant of Redstone that has been carved into a Pillar.",
+    "lore.pyrite.quartz_pillar": "A variant of Quaartz that has been carved into a Pillar.",
+    "lore.pyrite.lapis_pillar": "A variant of Lapis that has been carved into a Pillar.",
+    "lore.pyrite.netherite_pillar": "A variant of Netherite that has been carved into a Pillar.",
+    "lore.pyrite.emerald_pillar": "A variant of Emerald that has been carved into a Pillar.",
+    "lore.pyrite.amethyst_pillar": "A variant of Amethyst that has been carved into a Pillar.",
+    "lore.pyrite.smooth_iron": "A variant of Iron that has been carved to be perfectly smooth.",
+    "lore.pyrite.smooth_gold": "A variant of Gold that has been carved to be perfectly smooth.",
+    "lore.pyrite.smooth_diamond": "A variant of Diamond that has been carved to be perfectly smooth.",
+    "lore.pyrite.smooth_redstone": "A variant of Redstone that has been carved to be perfectly smooth.",
+    "lore.pyrite.smooth_quartz": "A variant of Quaartz that has been carved to be perfectly smooth.",
+    "lore.pyrite.smooth_lapis": "A variant of Lapis that has been carved to be perfectly smooth.",
+    "lore.pyrite.smooth_netherite": "A variant of Netherite that has been carved to be perfectly smooth.",
+    "lore.pyrite.smooth_emerald": "A variant of Emerald that has been carved to be perfectly smooth.",
+    "lore.pyrite.smooth_amethyst": "A variant of Amethyst that has been carved to be perfectly smooth.",
+    "lore.pyrite.glow_dye": "A green dye made from Glow Ink, that gives blocks crafted with it a subtle glow.",
+    "lore.pyrite.dragon_dye": "A green dye made from Dragon's Breath, that gives blocks crafted with it a subtle glow.",
+    "lore.pyrite.star_dye": "A dark dye made from a Nether Star, that gives blocks crafted with it a bright glow.",
+    "lore.pyrite.honey_dye": "A orange dye made from Honeycomb.",
+    "lore.pyrite.nostalgia_dye": "A green dye made from an Apple that brings out fond memories.",
+    "lore.pyrite.poisonous_dye": "A lime dye made from an Poisonous Potato.",
+    "lore.pyrite.rose_dye": "A red dye made from mixing Red and Pink Dye."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

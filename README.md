@@ -3,10 +3,17 @@
 This resource pack adds additional unique descriptions to modded blocks, items, and entities. It is an add-on for [Item Descriptions](https://modrinth.com/mod/item-descriptions).
 
 ## Supported Mods
+Every mod on this list should be fully supported, with accurate descriptions for all blocks and items.
 
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Infinite Dimensions](https://modrinth.com/mod/infinite-dimensions)
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
+
+## Partially Supported Mods
+Every mod on this list has partial support, with some descriptions for the mod's blocks and items.
+
+- Adorn
+- Pyrite
 
 ## Adding New Desccriptions
 
