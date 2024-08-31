@@ -1,5 +1,5 @@
 {
-"lore.pyrite.framed_glass": "This block can be used as a window. It's slightly tougher than Glass.",
+    "lore.pyrite.framed_glass": "This block can be used as a window. It's slightly tougher than Glass.",
     "lore.pyrite.framed_glass_pane": "This block can be used as a window. It's slightly tougher than Glass  .",
     "lore.pyrite.grass_turf": "This block resembles a Grass Block, with the Grass texture on each side.",
     "lore.pyrite.path_turf": "This block resembles a Dirt Path Block, with the top texture on each side.",
@@ -56,8 +56,32 @@
     "lore.pyrite.honey_dye": "A orange dye made from Honeycomb.",
     "lore.pyrite.nostalgia_dye": "A green dye made from an Apple that brings out fond memories.",
     "lore.pyrite.poisonous_dye": "A lime dye made from an Poisonous Potato.",
-    "lore.pyrite.rose_dye": "A red dye made from mixing Red and Pink Dye."
+    "lore.pyrite.rose_dye": "A red dye made from mixing Red and Pink Dye.",
+    "lore.pyrite.white_bricks": "This Brick block has been dyed White, and can be used as a building block.",
+    "lore.pyrite.orange_bricks": "This Brick block has been dyed Orange, and can be used as a building block.",
+    "lore.pyrite.magenta_bricks": "This Brick block has been dyed Magenta, and can be used as a building block.",
+    "lore.pyrite.light_blue_bricks": "This Brick block has been dyed Light Blue, and can be used as a building block.",
+    "lore.pyrite.yellow_bricks": "This Brick block has been dyed Yellow, and can be used as a building block.",
+    "lore.pyrite.lime_bricks": "This Brick block has been dyed Lime, and can be used as a building block.",
+    "lore.pyrite.pink__bricks": "This Brick block has been dyed Pink, and can be used as a building block.",
+    "lore.pyrite.gray_bricks": "This Brick block has been dyed Gray, and can be used as a building block.",
+    "lore.pyrite.light_gray_bricks": "This Brick block has been dyed Light Gray, and can be used as a building block.",
+    "lore.pyrite.cyan_bricks": "This Brick block has been dyed Cyan, and can be used as a building block.",
+    "lore.pyrite.purple_bricks": "This Brick block has been dyed Purple, and can be used as a building block.",
+    "lore.pyrite.blue_bricks": "This Brick block has been dyed Blue, and can be used as a building block.",
+    "lore.pyrite.brown_bricks": "This Brick block has been dyed Brown, and can be used as a building block.",
+    "lore.pyrite.green_bricks": "This Brick block has been dyed Green, and can be used as a building block.",
+    "lore.pyrite.red_bricks": "This Brick block has been dyed Red, and can be used as a building block.",
+    "lore.pyrite.black_bricks": "This Brick block has been dyed Black, and can be used as a building block.",
+    "lore.pyrite.glow_bricks": "This Brick block has been dyed with Glow Ink, and can be used as a building block.",
+    "lore.pyrite.dragon_bricks": "This Brick block has been dyed with Dragon's Breath, and can be used as a building block.",
+    "lore.pyrite.star_bricks": "This Brick block has been dyed with a Nether Star, and can be used as a building block.",
 
+    "lore.pyrite.honey_bricks": "This Brick block has been dyed Honey coloured, and can be used as a building block.",
+
+    "lore.pyrite.nostalgia_bricks": "This Brick block looks familiar, and can be used as a building block.",
+    "lore.pyrite.rose_bricks": "This Brick block has been dyed Rose, and can be used as a building block.",
+    "lore.pyrite.poisonous_bricks": "This Brick block has been dyed Poisonous Green, and can be used as a building block."
 
 
 
