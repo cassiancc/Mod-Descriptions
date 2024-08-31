@@ -12,8 +12,8 @@ Every mod on this list should be fully supported, with accurate descriptions for
 ## Partially Supported Mods
 Every mod on this list has partial support, with some descriptions for the mod's blocks and items.
 
-- Adorn
-- Pyrite
+- [Adorn](https://modrinth.com/mod/adorn)
+- [Pyrite](https://modrinth.com/mod/pyrite)
 
 ## Adding New Desccriptions
 
