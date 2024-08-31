@@ -103,43 +103,50 @@
     "lore.pyrite.nostalgia_terracotta_bricks": "This Terracotta Brick block looks familiar, and can be used as a building block.",
     "lore.pyrite.rose_terracotta_bricks": "This Terracotta Brick block has been dyed Rose, and can be used as a building block.",
     "lore.pyrite.poisonous_terracotta_bricks": "This Terracotta Brick block has been dyed Poisonous Green, and can be used as a building block.",
-    "lore.pyrite.white_lamp": "This Lamp block has been dyed White, and can be used as a building block.",
-    "lore.pyrite.orange_lamp": "This Lamp block has been dyed Orange, and can be used as a building block.",
-    "lore.pyrite.magenta_lamp": "This Lamp block has been dyed Magenta, and can be used as a building block.",
-    "lore.pyrite.light_blue_lamp": "This Lamp block has been dyed Light Blue, and can be used as a building block.",
-    "lore.pyrite.yellow_lamp": "This Lamp block has been dyed Yellow, and can be used as a building block.",
-    "lore.pyrite.lime_lamp": "This Lamp block has been dyed Lime, and can be used as a building block.",
-    "lore.pyrite.pink_lamp": "This Lamp block has been dyed Pink, and can be used as a building block.",
-    "lore.pyrite.gray_lamp": "This Lamp block has been dyed Gray, and can be used as a building block.",
-    "lore.pyrite.light_gray_lamp": "This Lamp block has been dyed Light Gray, and can be used as a building block.",
-    "lore.pyrite.cyan_lamp": "This Lamp block has been dyed Cyan, and can be used as a building block.",
-    "lore.pyrite.purple_lamp": "This Lamp block has been dyed Purple, and can be used as a building block.",
-    "lore.pyrite.blue_lamp": "This Lamp block has been dyed Blue, and can be used as a building block.",
-    "lore.pyrite.brown_lamp": "This Lamp block has been dyed Brown, and can be used as a building block.",
-    "lore.pyrite.green_lamp": "This Lamp block has been dyed Green, and can be used as a building block.",
-    "lore.pyrite.red_lamp": "This Lamp block has been dyed Red, and can be used as a building block.",
-    "lore.pyrite.black_lamp": "This Lamp block has been dyed Black, and can be used as a building block.",
-    "lore.pyrite.glow_lamp": "This Lamp block has been dyed with Glow Ink, and can be used as a building block.",
-    "lore.pyrite.dragon_lamp": "This Lamp block has been dyed with Dragon's Breath, and can be used as a building block.",
-    "lore.pyrite.star_lamp": "This Lamp block has been dyed with a Nether Star, and can be used as a building block.",
-    "lore.pyrite.honey_lamp": "This Lamp block has been dyed Honey coloured, and can be used as a building block.",
-    "lore.pyrite.nostalgia_lamp": "This Lamp block looks familiar, and can be used as a building block.",
-    "lore.pyrite.rose_lamp": "This Lamp block has been dyed Rose, and can be used as a building block.",
-    "lore.pyrite.poisonous_lamp": "This Lamp block has been dyed Poisonous Green, and can be used as a building block."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    "lore.pyrite.white_lamp": "This Lamp block has been dyed White, and can be used to light up your world.",
+    "lore.pyrite.orange_lamp": "This Lamp block has been dyed Orange, and can be used to light up your world.",
+    "lore.pyrite.magenta_lamp": "This Lamp block has been dyed Magenta, and can be used to light up your world.",
+    "lore.pyrite.light_blue_lamp": "This Lamp block has been dyed Light Blue, and can be used to light up your world.",
+    "lore.pyrite.yellow_lamp": "This Lamp block has been dyed Yellow, and can be used to light up your world.",
+    "lore.pyrite.lime_lamp": "This Lamp block has been dyed Lime, and can be used to light up your world.",
+    "lore.pyrite.pink_lamp": "This Lamp block has been dyed Pink, and can be used to light up your world.",
+    "lore.pyrite.gray_lamp": "This Lamp block has been dyed Gray, and can be used to light up your world.",
+    "lore.pyrite.light_gray_lamp": "This Lamp block has been dyed Light Gray, and can be used to light up your world.",
+    "lore.pyrite.cyan_lamp": "This Lamp block has been dyed Cyan, and can be used to light up your world.",
+    "lore.pyrite.purple_lamp": "This Lamp block has been dyed Purple, and can be used to light up your world.",
+    "lore.pyrite.blue_lamp": "This Lamp block has been dyed Blue, and can be used to light up your world.",
+    "lore.pyrite.brown_lamp": "This Lamp block has been dyed Brown, and can be used to light up your world.",
+    "lore.pyrite.green_lamp": "This Lamp block has been dyed Green, and can be used to light up your world.",
+    "lore.pyrite.red_lamp": "This Lamp block has been dyed Red, and can be used to light up your world.",
+    "lore.pyrite.black_lamp": "This Lamp block has been dyed Black, and can be used to light up your world.",
+    "lore.pyrite.glow_lamp": "This Lamp block has been dyed with Glow Ink, and can be used to light up your world.",
+    "lore.pyrite.dragon_lamp": "This Lamp block has been dyed with Dragon's Breath, and can be used to light up your world.",
+    "lore.pyrite.star_lamp": "This Lamp block has been dyed with a Nether Star, and can be used to light up your world.",
+    "lore.pyrite.honey_lamp": "This Lamp block has been dyed Honey coloured, and can be used to light up your world.",
+    "lore.pyrite.nostalgia_lamp": "This Lamp block looks familiar, and can be used to light up your world.",
+    "lore.pyrite.rose_lamp": "This Lamp block has been dyed Rose, and can be used to light up your world.",
+    "lore.pyrite.poisonous_lamp": "This Lamp block has been dyed Poisonous Green, and can be used to light up your world.",
+    "lore.pyrite.white_torch": "This Torch block has been dyed White, and can be used to light up your world.",
+    "lore.pyrite.orange_torch": "This Torch block has been dyed Orange, and can be used to light up your world.",
+    "lore.pyrite.magenta_torch": "This Torch block has been dyed Magenta, and can be used to light up your world.",
+    "lore.pyrite.light_blue_torch": "This Torch block has been dyed Light Blue, and can be used to light up your world.",
+    "lore.pyrite.yellow_torch": "This Torch block has been dyed Yellow, and can be used to light up your world.",
+    "lore.pyrite.lime_torch": "This Torch block has been dyed Lime, and can be used to light up your world.",
+    "lore.pyrite.pink_torch": "This Torch block has been dyed Pink, and can be used to light up your world.",
+    "lore.pyrite.gray_torch": "This Torch block has been dyed Gray, and can be used to light up your world.",
+    "lore.pyrite.light_gray_torch": "This Torch block has been dyed Light Gray, and can be used to light up your world.",
+    "lore.pyrite.cyan_torch": "This Torch block has been dyed Cyan, and can be used to light up your world.",
+    "lore.pyrite.purple_torch": "This Torch block has been dyed Purple, and can be used to light up your world.",
+    "lore.pyrite.blue_torch": "This Torch block has been dyed Blue, and can be used to light up your world.",
+    "lore.pyrite.brown_torch": "This Torch block has been dyed Brown, and can be used to light up your world.",
+    "lore.pyrite.green_torch": "This Torch block has been dyed Green, and can be used to light up your world.",
+    "lore.pyrite.red_torch": "This Torch block has been dyed Red, and can be used to light up your world.",
+    "lore.pyrite.black_torch": "This Torch block has been dyed Black, and can be used to light up your world.",
+    "lore.pyrite.glow_torch": "This Torch block has been dyed with Glow Ink, and can be used to light up your world.",
+    "lore.pyrite.dragon_torch": "This Torch block has been dyed with Dragon's Breath, and can be used to light up your world.",
+    "lore.pyrite.star_torch": "This Torch block has been dyed with a Nether Star, and can be used to light up your world.",
+    "lore.pyrite.honey_torch": "This Torch block has been dyed Honey coloured, and can be used to light up your world.",
+    "lore.pyrite.nostalgia_torch": "This Torch block looks familiar, and can be used to light up your world.",
+    "lore.pyrite.rose_torch": "This Torch block has been dyed Rose, and can be used to light up your world.",
+    "lore.pyrite.poisonous_torch": "This Torch block has been dyed Poisonous Green, and can be used to light up your world."
 }
