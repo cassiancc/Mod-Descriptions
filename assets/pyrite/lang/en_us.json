@@ -1,4 +1,7 @@
 {
+    "tag.pyrite.brick_wall_gates.description": "This block resembles a Wall, but it can be opened like a door.",
+    "tag.pyrite.wall_gates.description": "This block resembles a Wall, but it can be opened like a door.",
+    "tag.pyrite.ladders.description": "This block can be used to climb vertically.",
     "lore.pyrite.framed_glass": "This block can be used as a window. It's slightly tougher than Glass.",
     "lore.pyrite.framed_glass_pane": "This block can be used as a window. It's slightly tougher than Glass.",
     "lore.pyrite.grass_turf": "This block resembles a Grass Block, with the Grass texture on each side.",
