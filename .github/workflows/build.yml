@@ -9,6 +9,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Run ls
+        run: ls -l
+
       - name: Compress Directory
         uses: somaz94/compress-decompress@v1
         with:
@@ -22,3 +25,5 @@ jobs:
         with:
           name: compressed-data
           path: ./mod-descriptions-nightly.zip
+      - name: Run ls
+        run: ls -l
