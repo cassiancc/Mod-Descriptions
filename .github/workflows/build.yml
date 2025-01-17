@@ -1,0 +1,24 @@
+name: Compress Files
+
+on: [push]
+
+jobs:
+  compress-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Compress Directory
+        uses: somaz94/compress-decompress@v1
+        with:
+          command: compress
+          source: ./
+          format: zip
+          includeRoot: 'false'
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: compressed-data
+          path: ./mod-descriptions-nightly.zip
