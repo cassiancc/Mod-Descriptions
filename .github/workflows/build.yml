@@ -1,4 +1,4 @@
-name: Compress Files
+name: Build Mod Descriptions
 
 on: [push]
 
@@ -9,21 +9,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Run ls
-        run: ls -l
-
-      - name: Compress Directory
-        uses: somaz94/compress-decompress@v1
-        with:
-          command: compress
-          source: ./
-          format: zip
-          includeRoot: 'true'
+      - name: Compress Repository
+        run: zip -r mod-descriptions-nightly.zip .
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: compressed-data
           path: ./mod-descriptions-nightly.zip
-      - name: Run ls
-        run: ls -l
