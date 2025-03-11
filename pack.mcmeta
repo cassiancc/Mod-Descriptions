@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "Item Descriptions - Additional Modded Items"
+    "description": "Item Descriptions - Additional Modded Items",
+    "supported_formats": [
+      10,
+      70
+    ]
   }
 }

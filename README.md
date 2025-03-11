@@ -5,8 +5,9 @@ This resource pack adds additional unique descriptions to modded blocks, items, 
 ## Supported Mods
 Every mod on this list should be fully supported, with accurate descriptions for all blocks and items.
 
-- [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
+- [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
+- [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
 
 
@@ -14,6 +15,8 @@ Every mod on this list should be fully supported, with accurate descriptions for
 Every mod on this list has partial support, with some descriptions for the mod's blocks and items.
 
 - [Adorn](https://modrinth.com/mod/adorn)
+- [Extravaganza](https://modrinth.com/mod/extravaganza)
+- [Map Utils](https://modrinth.com/mod/map-utils)
 - [Quark](https://modrinth.com/mod/quark), thanks to [@sherpascott](https://github.com/sherpascott).
 
 ## Adding New Desccriptions
