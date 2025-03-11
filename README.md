@@ -6,6 +6,7 @@ This resource pack adds additional unique descriptions to modded blocks, items, 
 Every mod on this list should be fully supported, with accurate descriptions for all blocks and items.
 
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
+- [Extra Shields](https://modrinth.com/mod/extra-shields)
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
