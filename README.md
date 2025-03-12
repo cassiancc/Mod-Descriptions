@@ -10,10 +10,12 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Brewin and Chewin](https://modrinth.com/mod/brewin-and-chewin)
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
+- [Polaroid Camera](https://modrinth.com/mod/polaroid-camera)
 - [PolyDecorations](https://modrinth.com/mod/polydecorations)
 - [Weird Wares](https://modrinth.com/mod/weird-wares)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
+- [Zipline](https://modrinth.com/mod/zipline)
 
 
 ## Partially Supported Mods
