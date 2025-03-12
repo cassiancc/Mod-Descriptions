@@ -1,4 +1,5 @@
 # Mod Descriptions
+<a href='https://modfest.net/vanity/bc25'><img height="56" src="https://raw.githubusercontent.com/worldwidepixel/badges/refs/heads/main/bc25/featured_in/cozy.svg"></a>
 
 This resource pack adds additional unique descriptions to modded blocks, items, and entities. It is an add-on for [Item Descriptions](https://modrinth.com/mod/item-descriptions).
 
@@ -10,6 +11,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
 - [PolyDecorations](https://modrinth.com/mod/polydecorations)
+- [Weird Wares](https://modrinth.com/mod/weird-wares)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
 
