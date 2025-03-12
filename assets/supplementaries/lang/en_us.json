@@ -1,0 +1,17 @@
+{
+  "lore.supplementaries.slingshot": "Shoots blocks which are placed where they land if their position is suitable, pulls from the left side of the hotbar first. Enchantable.",
+  "lore.supplementaries.quiver": "Dropped by Skeletons.",
+  "lore.supplementaries.slice_map": "Displays the world from a certain Y-level.",
+  "lore.supplementaries.flute": "Play to summon nearby non-sitting pets to the player. Can be bound to a specific pet by clicking it to the pet.",
+  "lore.supplementaries.wrench": "Rotates any rotatable block. Shift right click to reverse the rotation direction.",
+  "lore.supplementaries.soap": "Undyes items. Cleans away oxidation levels by one when used on Copper. Cleans pets and sheep. Washes Blackboards, Antique Globes, Maps, Sticky Pistones, and Tipped Spikes.",
+  "lore.supplementaries.bubble_blower": "Fun novelty item. If enchanted with Stasis, places soap bubble blocks mid air wherever you aim. Can be replaced with normal blocks.",
+  "lore.supplementaries.antique_ink": "Can be used on Signs, Maps, Map Atlas, Globes, Written Books.",
+  "lore.supplementaries.key": "Locks Safes, Netherite Doors, Netherite Trapdoors, and Lock Blocks. Rename to desired password.",
+  "lore.supplementaries.pancake": "Accepts Honey, Chocolate, and Syrup as toppings. Can be inserted into a Jukebox."
+
+
+
+
+
+}
