@@ -39,4 +39,4 @@ The base mod provides descriptions for vanilla blocks, items, and entities - inc
 "lore.<namespace>.<your_item_here>": "A mysterious modded block."
 ```
 
-For more information on formatting, see the information on the [Item Descriptions Wiki](https://moddedmc.org/en/mod/item-descriptions/docs).
+For more information on formatting and recommendations on how to write a description, see the information on the [Item Descriptions Wiki](https://moddedmc.wiki/en/project/item-descriptions/docs/Writing-Descriptions).
