@@ -145,5 +145,6 @@
     "lore.farmersdelight.horse_feed": "A mixture of food that fully heals a tamed Horse, and grants positive status effects.",
   
     "tag.farmersdelight.canvas_signs.description": "A colourful sign that can display up to four lines of text. Placed on floors and walls.",
-    "tag.farmersdelight.tools.knives.description": "A lightweight melee weapon, with fast swings and gentle damage. It can harvest Straw from grasses, and guarantee secondary drops from animals."
+    "tag.farmersdelight.tools.knives.description": "A lightweight melee weapon, with fast swings and gentle damage. It can harvest Straw from grasses, and guarantee secondary drops from animals.",
+    "tag.farmersdelight.heat_sources.description": "A block used to provide heat to nearby workstations."
 }
