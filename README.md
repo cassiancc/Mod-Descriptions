@@ -20,6 +20,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
 - [Polaroid Camera](https://modrinth.com/mod/polaroid-camera)
 - [PolyDecorations](https://modrinth.com/mod/polydecorations)
+- [Rapscallions and Rockhoppers](https://modrinth.com/mod/rapscallions-and-rockhoppers)
 - [Weird Wares](https://modrinth.com/mod/weird-wares)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
