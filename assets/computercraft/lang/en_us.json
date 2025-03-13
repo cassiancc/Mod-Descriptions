@@ -12,6 +12,7 @@
      "lore.computercraft.redstone_relay": "A peripheral that can be used to read and output redstone signals.",
      "lore.computercraft.cable": "A block that can be used to network computers or other peripherals together. Just attach it to a Wired Modem!",
      "lore.computercraft.wired_modem": "A peripheral that can be used to network computers or other peripherals together. Just add cables!",
+     "lore.computercraft.wired_modem_full": "A peripheral that can be used to network computers or other peripherals together. Just add cables!",
      "lore.computercraft.wireless_modem_normal": "A block that can be used to wirelessly network computers or turtles together.",
      "lore.computercraft.wireless_modem_advanced": "A block that can be used to wirelessly network computers or turtles together.",
      "lore.computercraft.disk": "An item that can be used to store data and transfer programs between computers or turtles.",
