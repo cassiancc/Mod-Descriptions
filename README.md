@@ -16,6 +16,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Hollow](https://modrinth.com/mod/hollow)
+- [Patbox's Brewery](https://modrinth.com/mod/brewery)
 - [Polaroid Camera](https://modrinth.com/mod/polaroid-camera)
 - [PolyDecorations](https://modrinth.com/mod/polydecorations)
 - [Weird Wares](https://modrinth.com/mod/weird-wares)
