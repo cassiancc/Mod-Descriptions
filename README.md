@@ -6,6 +6,7 @@ This resource pack adds additional unique descriptions to modded blocks, items, 
 ## Supported Mods
 Every mod on this list should be fully supported, with accurate descriptions for all blocks and items.
 
+- [Basic Weapons](https://modrinth.com/mod/basic-weapons)
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
 - [Brewin and Chewin](https://modrinth.com/mod/brewin-and-chewin)
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
