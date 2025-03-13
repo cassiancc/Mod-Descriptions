@@ -1,0 +1,5 @@
+{
+    "lore.glowcase.item_acceptor_block": "A block that accepts an item, giving out a Redstone pulse.",
+    "lore.glowcase.item_display_block": "A block that displays an item, giving out copies of its contents when interacted with."
+
+}
