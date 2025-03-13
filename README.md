@@ -10,6 +10,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Basic Weapons](https://modrinth.com/mod/basic-weapons)
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
 - [Brewin and Chewin](https://modrinth.com/mod/brewin-and-chewin)
+- [Bronze](https://modrinth.com/mod/bronze)
 - [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Enchiridion](https://modrinth.com/mod/enchiridion)
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
@@ -31,7 +32,9 @@ Every mod on this list has partial support, with some descriptions for the mod's
 - [Adorn](https://modrinth.com/mod/adorn)
 - [Extravaganza!](https://modrinth.com/mod/extravaganza)
 - [Glowcase](https://modrinth.com/mod/glowcase)
+- [Litavis](https://modrinth.com/mod/litavis)
 - [Map Utils](https://modrinth.com/mod/map-utils)
+- [Scarves](https://modrinth.com/mod/scarves)
 - [Quark](https://modrinth.com/mod/quark), thanks to [@sherpascott](https://github.com/sherpascott).
 - [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
