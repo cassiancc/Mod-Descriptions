@@ -15,6 +15,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Enchiridion](https://modrinth.com/mod/enchiridion)
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
+- [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Hollow](https://modrinth.com/mod/hollow)
