@@ -17,10 +17,12 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Hollow](https://modrinth.com/mod/hollow)
+- [Oxide](https://modrinth.com/mod/oxide)
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
 - [Polaroid Camera](https://modrinth.com/mod/polaroid-camera)
 - [PolyDecorations](https://modrinth.com/mod/polydecorations)
 - [Rapscallions and Rockhoppers](https://modrinth.com/mod/rapscallions-and-rockhoppers)
+- [Softer Pastels](https://modrinth.com/mod/softer-pastels)
 - [Weird Wares](https://modrinth.com/mod/weird-wares)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
@@ -36,7 +38,6 @@ Every mod on this list has partial support, with some descriptions for the mod's
 - [Glowcase](https://modrinth.com/mod/glowcase)
 - [Litavis](https://modrinth.com/mod/litavis)
 - [Map Utils](https://modrinth.com/mod/map-utils)
-- [Oxide](https://modrinth.com/mod/oxide)
 - [Scarves](https://modrinth.com/mod/scarves)
 - [Quark](https://modrinth.com/mod/quark), thanks to [@sherpascott](https://github.com/sherpascott).
 - [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
