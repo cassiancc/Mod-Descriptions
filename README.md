@@ -36,6 +36,7 @@ Every mod on this list has partial support, with some descriptions for the mod's
 - [Glowcase](https://modrinth.com/mod/glowcase)
 - [Litavis](https://modrinth.com/mod/litavis)
 - [Map Utils](https://modrinth.com/mod/map-utils)
+- [Oxide](https://modrinth.com/mod/oxide)
 - [Scarves](https://modrinth.com/mod/scarves)
 - [Quark](https://modrinth.com/mod/quark), thanks to [@sherpascott](https://github.com/sherpascott).
 - [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
