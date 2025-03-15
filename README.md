@@ -45,6 +45,7 @@ Every mod on this list has partial support, with some descriptions for the mod's
 - [Litavis](https://modrinth.com/mod/litavis)
 - [Map Utils](https://modrinth.com/mod/map-utils)
 - [Scarves](https://modrinth.com/mod/scarves)
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild)
 - [Quark](https://modrinth.com/mod/quark), thanks to [@sherpascott](https://github.com/sherpascott).
 - [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
