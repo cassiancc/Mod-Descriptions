@@ -11,6 +11,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
 - [Berry Bounty](https://modrinth.com/mod/berry-bounty)
 - [Block Breaker and Block Placer](https://modrinth.com/mod/breakerplacer)
+- [Blocky Bass](https://modrinth.com/mod/blocky-bass)
 - [Breeze Bounce](https://modrinth.com/mod/breeze-bounce)
 - [Brewin and Chewin](https://modrinth.com/mod/brewin-and-chewin)
 - [Bronze](https://modrinth.com/mod/bronze)
