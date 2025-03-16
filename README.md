@@ -16,6 +16,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Brewin and Chewin](https://modrinth.com/mod/brewin-and-chewin)
 - [Bronze](https://modrinth.com/mod/bronze)
 - [Camphor](https://modrinth.com/mod/camphor)
+- [Carnival Cuisine](https://modrinth.com/mod/carnival-cuisine)
 - [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Enchiridion](https://modrinth.com/mod/enchiridion)
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
