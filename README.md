@@ -43,6 +43,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 Every mod on this list has partial support, with some descriptions for the mod's blocks and items.
 
 - [Adorn](https://modrinth.com/mod/adorn)
+- [Bovines and Buttercups](https://modrinth.com/mod/bovines-and-buttercups)
 - [Extravaganza!](https://modrinth.com/mod/extravaganza)
 - [Glowcase](https://modrinth.com/mod/glowcase)
 - [Litavis](https://modrinth.com/mod/litavis)
