@@ -50,7 +50,33 @@
     "lore.wilderwild.copper_horn": "A tool that will emit a loud sound when used, varying its pitch based off where you are looking. It's an uncommon find.",
     "lore.wilderwild.crab_claw": "An item dropped by Crabs that can be cooked and eaten.",
     "lore.wilderwild.cooked_crab_claw": "A meat that restores a lot of saturation when eaten.",
-    "lore.wilderwild.milkweed_pod": "An item snipped off Milkweed plants that can spawn a cloud of Milkweed Seed particles in the air when used."
+    "lore.wilderwild.firefly_bottle": "A glass bottle with a Firefly inside. It can be added to a display case or dyed.",
+    "lore.wilderwild.white_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or dyed.",
+    "lore.wilderwild.light_gray_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.gray_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.black_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.brown_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.red_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.orange_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.yellow_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.lime_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.green_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.cyan_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.light_blue_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.blue_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.purple_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.magenta_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.pink_firefly_bottle": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.fermented_scorched_eye": "A glass bottle with a dyed Firefly inside. It can be added to a Display Lantern or redyed.",
+    "lore.wilderwild.peeled_prickly_pear": "A fruit that has been peeled to be safe to eat.",
+    "lore.wilderwild.split_coconut": "A food that has been split in two and can restore a small amount of saturation.",
+    "lore.wilderwild.milkweed_pod": "An item snipped off Milkweed plants that can spawn a cloud of Milkweed Seed particles in the air when used.",
+    "lore.wilderwild.glory_of_the_snow": "A short flower that will grow new petals over time. It can be sheared for its petals and grown with Bone Meal.",
+    "lore.wilderwild.blue_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into Blue Dye.",
+    "lore.wilderwild.pink_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into Pink Dye.",
+    "lore.wilderwild.purple_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into Purple Dye.",
+    "lore.wilderwild.white_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into White Dye."
+
 
 
 	
