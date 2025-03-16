@@ -29,6 +29,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Polaroid Camera](https://modrinth.com/mod/polaroid-camera)
 - [PolyDecorations](https://modrinth.com/mod/polydecorations)
 - [Rapscallions and Rockhoppers](https://modrinth.com/mod/rapscallions-and-rockhoppers)
+- [Rounded](https://modrinth.com/mod/rounded-mod)
 - [Softer Pastels](https://modrinth.com/mod/softer-pastels)
 - [Weird Wares](https://modrinth.com/mod/weird-wares)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
