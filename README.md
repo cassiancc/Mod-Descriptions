@@ -29,6 +29,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Lilium](https://modrinth.com/mod/lilium)
 - [Oxide](https://modrinth.com/mod/oxide)
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
+- [Pierced](https://modrinth.com/mod/pierced)
 - [Polaroid Camera](https://modrinth.com/mod/polaroid-camera)
 - [PolyDecorations](https://modrinth.com/mod/polydecorations)
 - [Rapscallions and Rockhoppers](https://modrinth.com/mod/rapscallions-and-rockhoppers)
