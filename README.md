@@ -27,6 +27,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Hollow](https://modrinth.com/mod/hollow)
+- [Impilllagers](https://modrinth.com/mod/impillagers)
 - [Lilium](https://modrinth.com/mod/lilium)
 - [Oxide](https://modrinth.com/mod/oxide)
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
