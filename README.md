@@ -44,6 +44,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
 - [Wandering Rana](https://modrinth.com/mod/wandering-rana)
+- [Wheel of Wacky](https://modrinth.com/mod/wheel-of-wacky)
 - [Wilder Wild](https://modrinth.com/mod/wilder-wild)
 - [Zipline](https://modrinth.com/mod/zipline)
 
