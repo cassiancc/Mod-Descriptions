@@ -30,6 +30,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Hollow](https://modrinth.com/mod/hollow)
 - [Impilllagers](https://modrinth.com/mod/impillagers)
 - [Lilium](https://modrinth.com/mod/lilium)
+- [Litavis](https://modrinth.com/mod/litavis)
 - [Oxide](https://modrinth.com/mod/oxide)
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
 - [Pierced](https://modrinth.com/mod/pierced)
@@ -53,7 +54,6 @@ Every mod on this list has partial support, with some descriptions for the mod's
 - [Adorn](https://modrinth.com/mod/adorn)
 - [Extravaganza!](https://modrinth.com/mod/extravaganza)
 - [Glowcase](https://modrinth.com/mod/glowcase)
-- [Litavis](https://modrinth.com/mod/litavis)
 - [Map Utils](https://modrinth.com/mod/map-utils)
 - [Scarves](https://modrinth.com/mod/scarves)
 - [Quark](https://modrinth.com/mod/quark), thanks to [@sherpascott](https://github.com/sherpascott).
