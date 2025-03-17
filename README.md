@@ -25,6 +25,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
+- [gCAPS](https://modrinth.com/mod/gcaps)
 - [Glide Away](https://modrinth.com/mod/glide-away)
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Hollow](https://modrinth.com/mod/hollow)
