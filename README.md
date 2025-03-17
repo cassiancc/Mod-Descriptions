@@ -12,6 +12,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Berry Bounty](https://modrinth.com/mod/berry-bounty)
 - [Block Breaker and Block Placer](https://modrinth.com/mod/breakerplacer)
 - [Blocky Bass](https://modrinth.com/mod/blocky-bass)
+- [Bovines and Buttercups](https://modrinth.com/mod/bovines-and-buttercups)
 - [Breeze Bounce](https://modrinth.com/mod/breeze-bounce)
 - [Brewin and Chewin](https://modrinth.com/mod/brewin-and-chewin)
 - [Bronze](https://modrinth.com/mod/bronze)
@@ -44,7 +45,6 @@ Every mod on this list should be fully supported, with accurate descriptions for
 Every mod on this list has partial support, with some descriptions for the mod's blocks and items.
 
 - [Adorn](https://modrinth.com/mod/adorn)
-- [Bovines and Buttercups](https://modrinth.com/mod/bovines-and-buttercups)
 - [Extravaganza!](https://modrinth.com/mod/extravaganza)
 - [Glowcase](https://modrinth.com/mod/glowcase)
 - [Litavis](https://modrinth.com/mod/litavis)
