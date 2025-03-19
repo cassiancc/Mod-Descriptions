@@ -22,6 +22,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Carnival Cuisine](https://modrinth.com/mod/carnival-cuisine)
 - [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Chickensaurs](https://modrinth.com/mod/chickensaurs)
+- [Confetti Stuff](https://modrinth.com/mod/confetti-stuff)
 - [Enchiridion](https://modrinth.com/mod/enchiridion)
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
