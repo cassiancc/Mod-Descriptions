@@ -34,6 +34,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Impilllagers](https://modrinth.com/mod/impillagers)
 - [Lilium](https://modrinth.com/mod/lilium)
 - [Litavis](https://modrinth.com/mod/litavis)
+- [Oceanic Weaponry](https://modrinth.com/mod/oceanic-weaponry)
 - [Oxide](https://modrinth.com/mod/oxide)
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
 - [Pierced](https://modrinth.com/mod/pierced)
@@ -58,6 +59,7 @@ Every mod on this list has partial support, with some descriptions for the mod's
 
 - [Adorn](https://modrinth.com/mod/adorn)
 - [Cerulean](https://modrinth.com/mod/cerulean)
+- [Colourful Clocks](https://modrinth.com/mod/colourful-clocks)
 - [Extravaganza!](https://modrinth.com/mod/extravaganza)
 - [Glowcase](https://modrinth.com/mod/glowcase)
 - [Map Utils](https://modrinth.com/mod/map-utils)
