@@ -42,6 +42,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Rapscallions and Rockhoppers](https://modrinth.com/mod/rapscallions-and-rockhoppers)
 - [Rounded](https://modrinth.com/mod/rounded-mod)
 - [Softer Pastels](https://modrinth.com/mod/softer-pastels)
+- [Templates 2](https://modrinth.com/mod/templates-2)
 - [Trailier Tales](https://modrinth.com/mod/trailier-tales)
 - [Weird Wares](https://modrinth.com/mod/weird-wares)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
