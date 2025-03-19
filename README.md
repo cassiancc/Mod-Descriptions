@@ -6,6 +6,7 @@ This resource pack adds additional unique descriptions to modded blocks, items, 
 ## Supported Mods
 Every mod on this list should be fully supported, with accurate descriptions for all blocks and items.
 
+- [Armisteel](https://modrinth.com/mod/armisteel)
 - [Barricade](https://modrinth.com/mod/barricade)
 - [Basic Storage](https://modrinth.com/mod/basic-storage)
 - [Basic Weapons](https://modrinth.com/mod/basic-weapons)
@@ -54,6 +55,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 Every mod on this list has partial support, with some descriptions for the mod's blocks and items.
 
 - [Adorn](https://modrinth.com/mod/adorn)
+- [Cerulean](https://modrinth.com/mod/cerulean)
 - [Extravaganza!](https://modrinth.com/mod/extravaganza)
 - [Glowcase](https://modrinth.com/mod/glowcase)
 - [Map Utils](https://modrinth.com/mod/map-utils)
