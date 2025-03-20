@@ -27,6 +27,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
+- [Festive Frenzy](https://modrinth.com/mod/festive-frenzy)
 - [gCAPS](https://modrinth.com/mod/gcaps)
 - [Glide Away](https://modrinth.com/mod/glide-away)
 - [Green Screen](https://modrinth.com/mod/green-screen)
@@ -45,12 +46,12 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Softer Pastels](https://modrinth.com/mod/softer-pastels)
 - [Templates 2](https://modrinth.com/mod/templates-2)
 - [Trailier Tales](https://modrinth.com/mod/trailier-tales)
-- [Weird Wares](https://modrinth.com/mod/weird-wares)
-- [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
 - [Wandering Rana](https://modrinth.com/mod/wandering-rana)
+- [Weird Wares](https://modrinth.com/mod/weird-wares)
 - [Wheel of Wacky](https://modrinth.com/mod/wheel-of-wacky)
 - [Wilder Wild](https://modrinth.com/mod/wilder-wild)
+- [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Zipline](https://modrinth.com/mod/zipline)
 
 
