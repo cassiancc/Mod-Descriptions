@@ -28,6 +28,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Festive Frenzy](https://modrinth.com/mod/festive-frenzy)
+- [Fright's Delight](https://modrinth.com/mod/frights-delight)
 - [gCAPS](https://modrinth.com/mod/gcaps)
 - [Glide Away](https://modrinth.com/mod/glide-away)
 - [Green Screen](https://modrinth.com/mod/green-screen)
