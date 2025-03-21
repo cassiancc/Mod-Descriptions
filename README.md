@@ -38,6 +38,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Impilllagers](https://modrinth.com/mod/impillagers)
 - [Lilium](https://modrinth.com/mod/lilium)
 - [Litavis](https://modrinth.com/mod/litavis)
+- [More Paths](https://modrinth.com/mod/more-paths)
 - [Oceanic Weaponry](https://modrinth.com/mod/oceanic-weaponry)
 - [Oxide](https://modrinth.com/mod/oxide)
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
