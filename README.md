@@ -6,6 +6,7 @@ This resource pack adds additional unique descriptions to modded blocks, items, 
 ## Supported Mods
 Every mod on this list should be fully supported, with accurate descriptions for all blocks and items.
 
+- [Amarong](https://modrinth.com/mod/amarong)
 - [Armisteel](https://modrinth.com/mod/armisteel)
 - [Barricade](https://modrinth.com/mod/barricade)
 - [Basic Storage](https://modrinth.com/mod/basic-storage)
