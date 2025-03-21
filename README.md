@@ -15,6 +15,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Block Breaker and Block Placer](https://modrinth.com/mod/breakerplacer)
 - [Blocky Bass](https://modrinth.com/mod/blocky-bass)
 - [Bovines and Buttercups](https://modrinth.com/mod/bovines-and-buttercups)
+- [Buoys](https://modrinth.com/mod/buoys)
 - [Breeze Bounce](https://modrinth.com/mod/breeze-bounce)
 - [Brewin and Chewin](https://modrinth.com/mod/brewin-and-chewin)
 - [Bronze](https://modrinth.com/mod/bronze)
