@@ -36,6 +36,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Glide Away](https://modrinth.com/mod/glide-away)
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Hollow](https://modrinth.com/mod/hollow)
+- [It's As Shrimple As That](https://modrinth.com/mod/its-as-shrimple-as-that)
 - [Impilllagers](https://modrinth.com/mod/impillagers)
 - [Lilium](https://modrinth.com/mod/lilium)
 - [Litavis](https://modrinth.com/mod/litavis)
