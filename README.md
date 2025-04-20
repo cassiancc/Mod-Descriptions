@@ -41,6 +41,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Lilium](https://modrinth.com/mod/lilium)
 - [Litavis](https://modrinth.com/mod/litavis)
 - [More Paths](https://modrinth.com/mod/more-paths)
+- [My Nether's Delight](https://modrinth.com/mod/my-nethers-delight)
 - [Oceanic Weaponry](https://modrinth.com/mod/oceanic-weaponry)
 - [Oxide](https://modrinth.com/mod/oxide)
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
