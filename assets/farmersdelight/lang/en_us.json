@@ -146,5 +146,9 @@
   
     "tag.farmersdelight.canvas_signs.description": "A colourful sign that can display up to four lines of text. Placed on floors and walls.",
     "tag.farmersdelight.tools.knives.description": "A lightweight melee weapon, with fast swings and gentle damage. It can harvest Straw from grasses, and guarantee secondary drops from animals.",
-    "tag.farmersdelight.heat_sources.description": "A block used to provide heat to nearby workstations."
+    "tag.farmersdelight.heat_sources.description": "A block used to provide heat to nearby workstations.",
+
+    "effect.farmersdelight.nourishment.description": "An effect that prevents hunger loss, except when using saturation to heal damage.",
+    "effect.farmersdelight.comfort.description": "An effect that provides natural regeneration, regardless of how hungry you are."
+  
 }
