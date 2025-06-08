@@ -53,6 +53,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Rounded](https://modrinth.com/mod/rounded-mod)
 - [Softer Pastels](https://modrinth.com/mod/softer-pastels)
 - [Templates 2](https://modrinth.com/mod/templates-2)
+- [The Block Box](https://modrinth.com/mod/the-block-box)
 - [Thwackinator](https://modrinth.com/mod/thwackinator)
 - [Trailier Tales](https://modrinth.com/mod/trailier-tales)
 - [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod)
