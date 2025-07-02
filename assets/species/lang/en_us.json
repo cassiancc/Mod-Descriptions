@@ -1,0 +1,43 @@
+{
+    "entity.species.wraptor.description": "A large, neutral avian found in warped forests, these creatures with the right care, can prove to be a reliable source of feathers. Be careful to though not shed them completely!",
+    "lore.species.wraptor_egg.description": "This is quite a tough egg! Give the avian a little help hatching with an anvil.",
+    "lore.species.cracked_wraptor_egg.description": "You monster! Tasty yolk that empowers you to suddenly fight wither skeletons.",
+    "entity.species.birt.description": "A not-quite bird that flock in birch forests, and are able to communicate with each other over long distances using a long antenna on the top of their heads.",
+    "lore.species.birt_egg.description": "Birt eggs are extremely tough and can concuss mobs or players if thrown at them. Can also create a disc with enough disc shards.",
+    "entity.species.roombug.description": "A large, lazy arthropod that can easily carry other mobs on top of them, tameable with honey.",
+    "entity.species.limpet.description": "A shy mollusk whose shells can occasionally have minerals on them that can be extracted, but not before chasing the limpet down.",
+    "entity.species.deepfish.description": "An enigmatic fish found underground, making musical 'hums' in order to communicate.",
+    "lore.species.deepfish_bucket.description": "Just a cute puffy song-fish, won't despawn when placed.",
+    "entity.species.cruncher.description": "A huge and hungry beast that seems keen on eating you before you can feed it! Once friendly, can be given mob drops to spit out a large amount in a pellet once a day.",
+    "lore.species.cruncher_egg.description": "When you hear the music, the beast has hatched. Instead of running from, run towards it and tame it for a pleasant surprise!",
+    "lore.species.cruncher_pellet.description": "It's like a present, only if presents were wrapped in saliva. Its contents are the mob drop you gave the cruncher, but more.",
+    "entity.species.goober.description": "A giant, sleepy jurassic beast that can't seem to nap due to its snot. Use a brush on them to help them sneeze.",
+    "lore.species.petrified_egg.description": "This egg seems too cold to hatch a goober, try placing it over a campfire or magma block.",
+    "entity.species.springling.description": "A long, lanky fellow that's neck can extend or retract its neck, which is tameable with saplings.",
+    "lore.species.springling_egg.description": "You found me! Let this egg hatch for a helpful friend in building.",
+    "entity.species.treeper.description": "A shy, peaceful tree that only removes its roots at night to wander. Use a flint and steel to freeze it, or water bucket to let it move again. Or an axe for a new sapling friend.",
+    "entity.species.trooper.description": "A little creeper minion that will guard you the best way creepers know how, of course without damaging the grass. Tameable with bone meal, and can be lit with a flint and steel.",
+    "lore.species.ancient_pinecone.description": "Pinecones are just like little babies of trees, I wonder if this one could grow a baby too. When planted these saplings grow troopers.",
+    "entity.species.mammutilation.description": "A mammoth summoned by specific block orientation which spits red ichor you can bottle.",
+    
+    "lore.species.music_disc_dial.description": "A music disc that can be created through eight disc shards and a birt egg, and can be played in a jukebox.",
+    "lore.species.music_disc_lapidarian.description": "A special music disc found buried in red suspicious sand, can be played in a jukebox.",
+    "lore.species.ichor_bottle.description": "It kind of smells, but the shine makes it seem like it has purpose. Try to combine it with an egg and phantom membrane.",
+    "lore.species.youth_potion.description": "Reverts any living mob with a baby variant back to one. If you find that kind of stuff cute.",
+
+    "lore.species.alphacene_grass_block.description": "A beautiful block created by gooper snot.",
+    "lore.species.alphacene_moss_block.description": "A beautiful block created by gooper snot. Unlike other moss, cannot use bone meal on it to grow.",
+    "lore.species.alphacene_moss_carpet.description": "A beautiful block created by gooper snot, but carpet! Crafted by two alphacene moss blocks.",
+    "lore.species.alphacene_mushroom_block.description": "A yellow mushroom block with a light colored circle pattern. Grown from alphacene mushrooms.",
+    "lore.species.alphacene_mushroom_growth.description": "A yellow mushroom's hanging growth. Can be placed on any ceiling and float.",
+    "lore.species.alphacene_mushroom.description": "A yellow mushroom with a spiraling staircase design. Can be grown anywhere, regardless of light level.",
+    "lore.species.alphacene_grass.description": "A grass, which seems to curl on itself in spirals. Bone meal can be used on it to increase its height to tall.",
+    "lore.species.alphacene_tall_grass.description": "A grass, which seems to curl on itself in spirals, but taller. Grown from the alphacene grass and moss block.",
+
+    "lore.species.frozen_meat.description": "Kept perfectly frozen beneath the Frozen Ocean, these are remnants of old gigantic creatures. I wonder if we can revive it.",
+    "lore.species.frozen_hair.description": "Kept perfectly frozen beneath the Frozen Ocean, these are remnants of old gigantic creatures. I wonder if we can revive it.",
+
+    "lore.species.bone_bark.description": "Fossils of gigantic, ancient creatures in badlands ecavation sites.",
+    "lore.species.bone_vertebra.description": "Fossils of gigantic, ancient creatures in badlands ecavation sites.",
+    "lore.species.bone_spike.description": "Fossils of gigantic, ancient creatures in badlands ecavation sites."
+}
