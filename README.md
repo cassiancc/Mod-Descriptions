@@ -6,8 +6,11 @@ This resource pack adds additional unique descriptions to modded blocks, items, 
 ## Supported Mods
 Every mod on this list should be fully supported, with accurate descriptions for all blocks and items.
 
+- [Alex's Caves](https://modrinth.com/mod/alexs-caves), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
+- [Alexs Caves: Stuff & Torpedoes](https://modrinth.com/mod/alexscaves-torpedoes), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Amarong](https://modrinth.com/mod/amarong)
 - [Armisteel](https://modrinth.com/mod/armisteel)
+- [Autumnity](https://modrinth.com/mod/autumnity), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Barricade](https://modrinth.com/mod/barricade)
 - [Basic Storage](https://modrinth.com/mod/basic-storage)
 - [Basic Weapons](https://modrinth.com/mod/basic-weapons)
@@ -24,26 +27,36 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Carnival Cuisine](https://modrinth.com/mod/carnival-cuisine)
 - [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Chickensaurs](https://modrinth.com/mod/chickensaurs)
+- [Cloud Storage](https://modrinth.com/mod/alexs-cloud-storage), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
+- [Cold Sweat](https://modrinth.com/mod/cold-sweat), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Confetti Stuff](https://modrinth.com/mod/confetti-stuff)
+- [Doom and Gloom](https://modrinth.com/mod/doom-gloom), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
+- [Etcetera](https://modrinth.com/mod/etcetera), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Enchiridion](https://modrinth.com/mod/enchiridion)
 - [Extra Shields](https://modrinth.com/mod/extra-shields)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Extravaganza!](https://modrinth.com/mod/extravaganza)
-- [Farmer's Delight (Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight) [(Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Festive Frenzy](https://modrinth.com/mod/festive-frenzy)
 - [Fright's Delight](https://modrinth.com/mod/frights-delight)
+- [Galosphere](https://modrinth.com/mod/galosphere), contributed to by [sherpascott](https://github.com/sherpascott), [craisinlord](https://www.curseforge.com/members/craisinlord/projects), and [Liamgrayskull](https://github.com/Liamgrayskull)
 - [gCAPS](https://modrinth.com/mod/gcaps)
 - [Glide Away](https://modrinth.com/mod/glide-away)
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Hollow](https://modrinth.com/mod/hollow)
 - [It's As Shrimple As That](https://modrinth.com/mod/its-as-shrimple-as-that)
+- [Immersive Melodies](https://modrinth.com/mod/immersive-melodies), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Impilllagers](https://modrinth.com/mod/impillagers)
 - [Lilium](https://modrinth.com/mod/lilium)
 - [Litavis](https://modrinth.com/mod/litavis)
 - [More Paths](https://modrinth.com/mod/more-paths)
+- [Mowzie's Mobs](https://modrinth.com/mod/mowzies-mobs), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
+- [Nirvana](https://www.curseforge.com/minecraft/mc-mods/nirvana), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [My Nether's Delight](https://modrinth.com/mod/my-nethers-delight)
 - [Oceanic Weaponry](https://modrinth.com/mod/oceanic-weaponry)
+- [Oreganized](https://modrinth.com/mod/oreganized), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Oxide](https://modrinth.com/mod/oxide)
+- [Paradise Lost](https://modrinth.com/mod/paradise-lost), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Patbox's Brewery](https://modrinth.com/mod/brewery)
 - [Pierced](https://modrinth.com/mod/pierced)
 - [Polaroid Camera](https://modrinth.com/mod/polaroid-camera)
@@ -51,7 +64,10 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Raccoons and Rabies](https://modrinth.com/mod/raccoons-rabies)
 - [Rapscallions and Rockhoppers](https://modrinth.com/mod/rapscallions-and-rockhoppers)
 - [Rounded](https://modrinth.com/mod/rounded-mod)
+- [Simple Radio](https://modrinth.com/mod/simple-radio), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Softer Pastels](https://modrinth.com/mod/softer-pastels)
+- [Sully's Mod](https://modrinth.com/mod/sullysmod), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
+- [Supplementaries](https://modrinth.com/mod/supplementaries), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Templates 2](https://modrinth.com/mod/templates-2)
 - [The Block Box](https://modrinth.com/mod/the-block-box)
 - [Thwackinator](https://modrinth.com/mod/thwackinator)
@@ -60,7 +76,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Wandering Rana](https://modrinth.com/mod/wandering-rana)
 - [Weird Wares](https://modrinth.com/mod/weird-wares)
 - [Wheel of Wacky](https://modrinth.com/mod/wheel-of-wacky)
-- [Wilder Wild](https://modrinth.com/mod/wilder-wild)
+- [Whiff o' Whisp](https://modrinth.com/mod/whiffowisp), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
 - [Zipline](https://modrinth.com/mod/zipline)
 
@@ -69,25 +85,27 @@ Every mod on this list should be fully supported, with accurate descriptions for
 Every mod on this list has partial support, with some descriptions for the mod's blocks and items.
 
 - [Adorn](https://modrinth.com/mod/adorn)
+- [Alex's Mobs](https://modrinth.com/mod/alexs-mobs), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
+- [Cataclysm](https://modrinth.com/mod/catacylsm), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Cerulean](https://modrinth.com/mod/cerulean)
 - [Colourful Clocks](https://modrinth.com/mod/colourful-clocks)
+- [Domestication Innovation](https://modrinth.com/mod/domestication-innovation), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
+- [Friends and Foes](https://modrinth.com/mod/friends-and-foes), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Glowcase](https://modrinth.com/mod/glowcase)
+- [Iron's Spellbooks](https://modrinth.com/mod/irons-spellbooks), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
+- [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects), and [Liamgrayskull](https://github.com/Liamgrayskull)!
 - [Map Utils](https://modrinth.com/mod/map-utils)
+- [Quark](https://modrinth.com/mod/quark), contributed to by [sherpascott](https://github.com/sherpascott).
 - [Scarves](https://modrinth.com/mod/scarves)
-- [Quark](https://modrinth.com/mod/quark), thanks to [@sherpascott](https://github.com/sherpascott).
-- [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Alex's Mobs](https://modrinth.com/mod/alexs-mobs), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Cataclysm](https://modrinth.com/mod/catacylsm), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Domestication Innovation](https://modrinth.com/mod/domestication-innovation), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Friends and Foes](https://modrinth.com/mod/friends-and-foes), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Galosphere](https://modrinth.com/mod/galosphere), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Iron's Spellbooks](https://modrinth.com/mod/irons-spellbooks), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Simply Swords](https://modrinth.com/mod/simply-swords), thanks to [@sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
+- [Simply Swords](https://modrinth.com/mod/simply-swords), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
+- [Species](https://modrinth.com/mod/species), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
+- [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild)
+
 
 ## Adding New Desccriptions
 
-The base mod provides descriptions for vanilla blocks, items, and entities - including supported April Fools versions. This resource pack stores each mod's translations in the same namespace as the mod, to aid in modularity.
+The base mod provides descriptions for vanilla blocks, items, and entities - including  orted April Fools versions. This resource pack stores each mod's translations in the same namespace as the mod, to aid in modularity.
 
 ```json
 "lore.<namespace>.<your_item_here>": "A mysterious modded block."

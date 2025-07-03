@@ -12,9 +12,6 @@
   "lore.netherexp.warped_sporeshroom": "Negates fall damage and is bouncy. Spreads when bonemealed.",
   "lore.netherexp.lightspores": "Use on their respective wart block to make them spotted.",
   "lore.netherexp.nightspores": "Use on their respective wart block to make them spotted.",
-  "lore.minecraft.crimson_nylium": "A grass-like block found in crimson forests. Can be pathed with a shovel.",
-  "lore.minecraft.warped_nylium": "A grass-like block found in warped forests. Can be pathed with a shovel.",
-  "lore.minecraft.soul_sand": "A block that slows movement of anything walking over it. Can be placed underwater to make bubble columns, or pathed with a shovel.",
   "lore.netherexp.soul_path": "Use a shovel on the respective block to form a path block.",
   "lore.netherexp.warped_nylium_path": "Use a shovel on the respective block to form a path block.",
   "lore.netherexp.crimson_nylium_path": "Use a shovel on the respective block to form a path block.",
@@ -147,7 +144,6 @@
   "lore.netherexp.necromium_grate": "It doesn't tarnish, and it smells strongly of aged metal.",
   "lore.netherexp.soulblight_sporeshroom": "Negates fall damage and is bouncy. Spreads when bonemealed.",
   "lore.netherexp.blight_swirls": "Temporarily grants immunity to the slowness of soul sand when stepped on.",
-  "lore.minecraft.shroomlight": "Glows with the warmth of crimson spores.",
   "lore.netherexp.shroomnight": "Thrums with the light of warped spores.",
   "lore.netherexp.shroomblight": "Ebbs with the pulse of souls."
 }
