@@ -16,6 +16,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Basic Storage](https://modrinth.com/mod/basic-storage)
 - [Basic Weapons](https://modrinth.com/mod/basic-weapons)
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
+- [Bear Minimum](https://modrinth.com/mod/bear-minimum)
 - [Berry Bounty](https://modrinth.com/mod/berry-bounty)
 - [Block Breaker and Block Placer](https://modrinth.com/mod/breakerplacer)
 - [Blocky Bass](https://modrinth.com/mod/blocky-bass)
