@@ -48,6 +48,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Gardens of the Dead](https://modrinth.com/mod/gardens-of-the-dead), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [gCAPS](https://modrinth.com/mod/gcaps)
 - [Glide Away](https://modrinth.com/mod/glide-away)
+- [Gliders](https://modrinth.com/mod/gliders)
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Happier Ghasts](https://modrinth.com/mod/happier-ghasts)
 - [Hollow](https://modrinth.com/mod/hollow)
