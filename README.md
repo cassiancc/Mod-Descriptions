@@ -55,6 +55,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Green Screen](https://modrinth.com/mod/green-screen)
 - [Happier Ghasts](https://modrinth.com/mod/happier-ghasts)
 - [Hollow](https://modrinth.com/mod/hollow)
+- [Inferno](https://modrinth.com/mod/inferno)
 - [Instant Feedback](https://modrinth.com/mod/instant-feedback)
 - [It's As Shrimple As That](https://modrinth.com/mod/its-as-shrimple-as-that)
 - [Immersive Melodies](https://modrinth.com/mod/immersive-melodies), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
