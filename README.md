@@ -49,6 +49,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [gCAPS](https://modrinth.com/mod/gcaps)
 - [Glide Away](https://modrinth.com/mod/glide-away)
 - [Green Screen](https://modrinth.com/mod/green-screen)
+- [Happier Ghasts](https://modrinth.com/mod/happier-ghasts)
 - [Hollow](https://modrinth.com/mod/hollow)
 - [It's As Shrimple As That](https://modrinth.com/mod/its-as-shrimple-as-that)
 - [Immersive Melodies](https://modrinth.com/mod/immersive-melodies), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
