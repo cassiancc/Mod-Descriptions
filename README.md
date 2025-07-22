@@ -115,6 +115,7 @@ Every mod on this list has partial support, with some descriptions for the mod's
 - [Cataclysm](https://modrinth.com/mod/catacylsm), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Cerulean](https://modrinth.com/mod/cerulean)
 - [Colourful Clocks](https://modrinth.com/mod/colourful-clocks)
+- [Cook's Collection](https://modrinth.com/mod/cooks-collection)
 - [Domestication Innovation](https://modrinth.com/mod/domestication-innovation), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Friends and Foes](https://modrinth.com/mod/friends-and-foes), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Glowcase](https://modrinth.com/mod/glowcase)
