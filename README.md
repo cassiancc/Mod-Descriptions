@@ -86,6 +86,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Rapscallions and Rockhoppers](https://modrinth.com/mod/rapscallions-and-rockhoppers)
 - [Rare Ice](https://modrinth.com/mod/rare-ice), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Raspberry Core](https://modrinth.com/mod/raspberry-core), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
+- [Rest in Pieces](https://modrinth.com/mod/rest-in-pieces)
 - [Rounded](https://modrinth.com/mod/rounded-mod)
 - [Simple Radio](https://modrinth.com/mod/simple-radio), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Softer Pastels](https://modrinth.com/mod/softer-pastels)
