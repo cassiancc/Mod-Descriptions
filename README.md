@@ -89,6 +89,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Rounded](https://modrinth.com/mod/rounded-mod)
 - [Simple Radio](https://modrinth.com/mod/simple-radio), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Softer Pastels](https://modrinth.com/mod/softer-pastels)
+- [Straw Statues](https://modrinth.com/mod/straw-statues)
 - [Sully's Mod](https://modrinth.com/mod/sullysmod), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Supplementaries](https://modrinth.com/mod/supplementaries), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Templates 2](https://modrinth.com/mod/templates-2)
