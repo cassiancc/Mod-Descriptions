@@ -17,6 +17,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Basic Weapons](https://modrinth.com/mod/basic-weapons)
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
 - [Bear Minimum](https://modrinth.com/mod/bear-minimum)
+- [Bedrockify](https://modrinth.com/mod/bedrockify)
 - [Berry Bounty](https://modrinth.com/mod/berry-bounty)
 - [Block Breaker and Block Placer](https://modrinth.com/mod/breakerplacer)
 - [Blocky Bass](https://modrinth.com/mod/blocky-bass)
@@ -41,6 +42,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Extravaganza!](https://modrinth.com/mod/extravaganza)
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) [(Refabricated)](https://modrinth.com/mod/farmers-delight-refabricated)
+- [Fast Item Frames](https://modrinth.com/mod/fast-item-frames)
 - [Festive Frenzy](https://modrinth.com/mod/festive-frenzy)
 - [Frame Changer](https://modrinth.com/mod/frame-changer), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Fright's Delight](https://modrinth.com/mod/frights-delight)
@@ -126,7 +128,7 @@ Every mod on this list has partial support, with some descriptions for the mod's
 
 ## Adding New Desccriptions
 
-The base mod provides descriptions for vanilla blocks, items, and entities - including  orted April Fools versions. This resource pack stores each mod's translations in the same namespace as the mod, to aid in modularity.
+The base mod provides descriptions for vanilla blocks, items, and entities - including supported April Fools versions. This resource pack stores each mod's translations in the same namespace as the mod, to aid in modularity.
 
 ```json
 "lore.<namespace>.<your_item_here>": "A mysterious modded block."
