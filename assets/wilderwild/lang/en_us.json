@@ -1,5 +1,6 @@
 {
 	"lore.wilderwild.algae": "A natural block that can be found in Swamps.",
+	"lore.wilderwild.plankton": "A natural block that can be found in Warm Oceans.",
 	"lore.wilderwild.baobab_nut": "A block that can be planted to grow a Baobab tree, given enough space.",
 	"tag.wilderwild.nematocysts.description": "An atmospheric light-emitting block that can be placed on surfaces or crafted into Mesoglea.",
 	"lore.wilderwild.brown_shelf_fungi": "A mushroom block that can be found growing on trees. It can be sheared and grown with Bone Meal.",
@@ -75,9 +76,11 @@
     "lore.wilderwild.blue_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into Blue Dye.",
     "lore.wilderwild.pink_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into Pink Dye.",
     "lore.wilderwild.purple_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into Purple Dye.",
-    "lore.wilderwild.white_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into White Dye."
-
-
-
-	
+    "lore.wilderwild.white_glory_of_the_snow_petals": "A cluster of flower petals from a Glory of the Snow that can be crafted into White Dye.",
+	"tag.wilderwild.leaf_litters.description": "A foliage block made of dried leaves commonly found in forests.",
+	"item.wilderwild.crab_bucket.description": "A bucket carrying a Crab.",
+	"item.wilderwild.jellyfish_bucket.description": "A bucket carrying a Jellyfish.",
+	"lore.wilderwild.fragile_ice": "A weak block of Ice that will shatter under your weight.",
+	"lore.wilderwild.icicle": "A block that is sharp, and will deal damage if you fall on it (or it falls on you).",
+	"item.wilderwild.butterfly_bottle.description": "A glass bottle with a Butterfly inside.."
 }

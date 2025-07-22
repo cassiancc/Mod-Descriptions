@@ -18,6 +18,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Beans Backpacks](https://modrinth.com/mod/beans-backpacks)
 - [Bear Minimum](https://modrinth.com/mod/bear-minimum)
 - [Bedrockify](https://modrinth.com/mod/bedrockify)
+- [Better Tridents](https://modrinth.com/mod/better-tridents)
 - [Berry Bounty](https://modrinth.com/mod/berry-bounty)
 - [Block Breaker and Block Placer](https://modrinth.com/mod/breakerplacer)
 - [Blocky Bass](https://modrinth.com/mod/blocky-bass)
