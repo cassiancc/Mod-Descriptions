@@ -121,9 +121,10 @@ Every mod on this list has partial support, with some descriptions for the mod's
 - [Friends and Foes](https://modrinth.com/mod/friends-and-foes), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Glowcase](https://modrinth.com/mod/glowcase)
 - [Iron's Spellbooks](https://modrinth.com/mod/irons-spellbooks), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects), and [Liamgrayskull](https://github.com/Liamgrayskull)!
+- [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion), contributed to by [sherpascott](https://github.com/sherpascott), [craisinlord](https://www.curseforge.com/members/craisinlord/projects), and [Liamgrayskull](https://github.com/Liamgrayskull)!
 - [Map Utils](https://modrinth.com/mod/map-utils)
 - [Quark](https://modrinth.com/mod/quark), contributed to by [sherpascott](https://github.com/sherpascott).
+- [Savage and Ravage](https://modrinth.com/mod/jadens-nether-expansion), contributed to by [Ghoules3000](https://modrinth.com/user/Ghoules3000)!
 - [Scarves](https://modrinth.com/mod/scarves)
 - [Simply Swords](https://modrinth.com/mod/simply-swords), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Species](https://modrinth.com/mod/species), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
