@@ -177,15 +177,17 @@ Every mod on this list has partial support, with some descriptions for the mod's
 - [Colourful Clocks](https://modrinth.com/mod/colourful-clocks)
 - [Cook's Collection](https://modrinth.com/mod/cooks-collection)
 - [Domestication Innovation](https://modrinth.com/mod/domestication-innovation), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
+- [Environmental](https://modrinth.com/mod/environmental), contributed to by [Ghoules3000](https://modrinth.com/user/Ghoules3000)!
 - [Friends and Foes](https://modrinth.com/mod/friends-and-foes), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Iron's Spellbooks](https://modrinth.com/mod/irons-spellbooks), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion), contributed to by [sherpascott](https://github.com/sherpascott), [craisinlord](https://www.curseforge.com/members/craisinlord/projects), and [Liamgrayskull](https://github.com/Liamgrayskull)!
 - [Map Utils](https://modrinth.com/mod/map-utils)
 - [Quark](https://modrinth.com/mod/quark), contributed to by [sherpascott](https://github.com/sherpascott).
-- [Savage and Ravage](https://modrinth.com/mod/jadens-nether-expansion), contributed to by [Ghoules3000](https://modrinth.com/user/Ghoules3000)!
+- [Savage and Ravage](https://modrinth.com/mod/savage-and-ravage), contributed to by [Ghoules3000](https://modrinth.com/user/Ghoules3000)!
 - [Scarves](https://modrinth.com/mod/scarves)
 - [Simply Swords](https://modrinth.com/mod/simply-swords), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
-- [Species](https://modrinth.com/mod/species), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
+- [Spawn](https://modrinth.com/mod/spawn), contributed to by [Ghoules3000](https://modrinth.com/user/Ghoules3000)!
+- [Species](https://modrinth.com/mod/species), contributed to by [Ghoules3000](https://modrinth.com/user/Ghoules3000) and [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic), contributed to by [sherpascott](https://github.com/sherpascott) and [craisinlord](https://www.curseforge.com/members/craisinlord/projects)!
 - [Wilder Wild](https://modrinth.com/mod/wilder-wild)
 
