@@ -33,9 +33,9 @@
 	"lore.species.alphacene_tall_grass": "A grass, which seems to curl on itself in spirals, but taller. Grown from the alphacene grass and moss block.",
 	"lore.species.frozen_meat": "Kept perfectly frozen beneath the Frozen Ocean, these are remnants of old gigantic creatures. I wonder if we can revive it.",
 	"lore.species.frozen_hair": "Kept perfectly frozen beneath the Frozen Ocean, these are remnants of old gigantic creatures. I wonder if we can revive it.",
-	"lore.species.bone_bark": "Fossils of gigantic, ancient creatures in badlands ecavation sites.",
-	"lore.species.bone_vertebra": "Fossils of gigantic, ancient creatures in badlands ecavation sites.",
-	"lore.species.bone_spike": "Fossils of gigantic, ancient creatures in badlands ecavation sites.",
+	"lore.species.bone_bark": "Fossils of gigantic, ancient creatures in badlands excavation sites.",
+	"lore.species.bone_vertebra": "Fossils of gigantic, ancient creatures in badlands excavation sites.",
+	"lore.species.bone_spike": "Fossils of gigantic, ancient creatures in badlands excavation sites.",
 	"lore.species.chandelier": "A spooky hanging light block that will emit a downwards facing spectral glow when placed.",
 	"lore.species.speclight": "A ghastly light block that will emit a spectral glow when powered by redstone.",
 	"lore.species.hopelight": "a creepy light block will emit a upwards facing spectral glow when place.",
@@ -45,7 +45,7 @@
 	"lore.species.kinetic_core": "The core of a Quake. Can be crafted into a shield or deflector dummy",
 	"lore.species.werefang": "The sharp teeth of a Bewereager.",
 	"lore.species.wicked_swapper": "Will swap places with whatever mob it is thrown at.",
-	"lore.species.wicked_wax": "The ever burning wax of a Wicked. Can be crafted into multiple mischevious items, or a bunch of torches.",
+	"lore.species.wicked_wax": "The ever burning wax of a Wicked. Can be crafted into multiple mischievous items, or a bunch of torches.",
 	"lore.species.coil": "The long and durable coiled tongue of a Leaf or Cliff Hanger can be placed onto fences to make a zipline that can be ridden with a Harpoon.",
 	"lore.species.harpoon": "A useful tool made of Iron and Coils, can be thrown upwards to latch onto ceiling blocks and swing around."
 }

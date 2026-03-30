@@ -2,8 +2,8 @@
     "entity.trailiertales.apparition.description": "A mysterious mob that spawns from Coffins, turning mobs against you and throwing items like projectiles. Direct contact may result in haunting.",
   
     "lore.minecraft.potion.effect.transfiguring": "An item that can be drunk to spawn an Apparition on the drinker's demise.",
-    "lore.minecraft.splash_potion.effect.transfiguring": "An item that can be thrown to spawn an Apparition on the target's demise. Using it on an apparition will dispell it.",
-    "lore.minecraft.lingering_potion.effect.transfiguring": "An item that can be thrown to spawn an Apparition on the demise of any target in the area. Using it on an apparition will dispell it.",
+    "lore.minecraft.splash_potion.effect.transfiguring": "An item that can be thrown to spawn an Apparition on the target's demise. Using it on an apparition will dispel it.",
+    "lore.minecraft.lingering_potion.effect.transfiguring": "An item that can be thrown to spawn an Apparition on the demise of any target in the area. Using it on an apparition will dispel it.",
     "lore.minecraft.tipped_arrow.effect.transfiguring": "An arrow that causes the target to spawn an Apparition on death. If this arrow hits an apparition, it will be dispelled.",
   
     "lore.trailiertales.ectoplasm": "A brewing ingredient dropped by Apparitions that can also be used to craft Surveyors.",
