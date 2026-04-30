@@ -142,6 +142,7 @@ Every mod on this list should be fully supported, with accurate descriptions for
 - [Rare Ice](https://modrinth.com/mod/rare-ice), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [Raspberry Core](https://modrinth.com/mod/raspberry-core), contributed to by [Liamgrayskull](https://github.com/Liamgrayskull)
 - [RC Toys](https://modrinth.com/mod/rc-toys), contributed to by [sisby-folk](https://modrinth.com/user/sisby-folk)
+- [Reliable Gliders](https://www.curseforge.com/minecraft/mc-mods/reliable-gliders), contributed to by [poacher](https://modrinth.com/user/poacher)
 - [Rest in Pieces](https://modrinth.com/mod/rest-in-pieces)
 - [Rounded](https://modrinth.com/mod/rounded-mod)
 - [Scattered Shards](https://modrinth.com/mod/scattered-shards), contributed to by [sisby-folk](https://modrinth.com/user/sisby-folk)
