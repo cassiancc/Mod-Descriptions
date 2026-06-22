@@ -1,0 +1,4 @@
+{
+    "tag.simple_copper_pipes.copper_pipes.description": "A block that is used to quickly transfer items, fluids, smoke and vibrations from one place to another.",
+    "tag.simple_copper_pipes.copper_fittings.description": "A block that is used to connect copper pipes and renew the flow of fluid in them."
+}

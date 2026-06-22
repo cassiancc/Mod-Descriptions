@@ -1,0 +1,10 @@
+{
+    "lore.thecopperierage.copper_horn": "An item that will play a sound of the listed instrument when used.",
+    "lore.thecopperierage.crate": "A storage block that can hold only one type of an item, but is movable by pistons.",
+    "tag.thecopperierage.copper_fans.description": "A block that blows mobs and items when powered.",
+    "tag.thecopperierage.gearboxes.description": "When powered from the side, this block transfers rotational energy to adjacent gearboxes and spins entities ontop.",
+    "tag.thecopperierage.sticky_gearboxes.description": "A gearbox that spins blocks ontop when powered from the side.",
+    "tag.thecopperierage.chimes.description": "A block that will emit a cute sound when interacted with.",
+    "tag.thecopperierage.copper_buttons.description": "A button that stays pressed for a duration equal to its oxidization level. Copper Golems can press it if they're bored or have just finished their depositing tasks.",
+    "tag.thecopperierage.copper_pressure_plates.description": "A pressure plate that outputs a redstone signal dependending on how many occupied inventory slots entities ontop have. Oxidization lowers its sensitivity."
+}

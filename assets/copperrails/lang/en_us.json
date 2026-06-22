@@ -1,0 +1,13 @@
+{
+    "item.copperrails.copper_rail.description.copper_powered_rail": "A type of rail that accelerates minecarts when powered, but its speed lowers with oxidization.",
+    "lore.copperrails.exposed_copper_rail": "A type of rail that accelerates minecarts when powered, but its speed lowers with oxidization.",
+    "lore.copperrails.weathered_copper_rail": "A type of rail that accelerates minecarts when powered, but its speed lowers with oxidization.",
+    "lore.copperrails.oxidized_copper_rail": "A type of rail that accelerates minecarts when powered, but its speed lowers with oxidization.",
+    
+    "lore.copperrails.waxed_copper_rail": "A type of rail that accelerates minecarts when powered, but its speed lowers with oxidization.",
+    "lore.copperrails.waxed_exposed_copper_rail": "A type of rail that accelerates minecarts when powered, but its speed lowers with oxidization.",
+    "lore.copperrails.waxed_weathered_copper_rail": "A type of rail that accelerates minecarts when powered, but its speed lowers with oxidization.",
+    "lore.copperrails.waxed_oxidized_copper_rail": "A type of rail that accelerates minecarts when powered, but its speed lowers with oxidization.",    
+
+    "lore.copperrails.rail_crossing": "A type of rail that switches its direction when powered."
+}
